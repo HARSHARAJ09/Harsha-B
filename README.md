@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech enthusiast and recent Computer Science graduate, ready to kick-start my career by turning ideas into functional code. 
 I’m driven to contribute fresh energy, quick learning, and a problem-solving mindset to a forward-thinking tech team..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-s-b&label=Profile%20views&color=0e75b6&style=flat" alt="HARSHARAJ09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsha-B&label=Profile%20views&color=0e75b6&style=flat" alt="HARSHARAJ09" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
