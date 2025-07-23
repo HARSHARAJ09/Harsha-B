@@ -8,7 +8,6 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsharajb094318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HARSHARAJ09" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Harsharaj09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HARSHARAJ09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
