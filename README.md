@@ -8,7 +8,7 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
 
 - I’m currently learning **React,Spring,Spring Boot,Microservices.**
 
-- How to reach me **harsharajbsy@gmail.com**
+- You can contact me through **harsharajbsy@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
