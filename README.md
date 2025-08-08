@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha B</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsha B</h1>
 <h3 align="center">A passionate tech enthusiast and recent Computer Science graduate, ready to kick-start my career by turning ideas into functional code. 
 I’m driven to contribute fresh energy, quick learning, and a problem-solving mindset to a forward-thinking tech team..!</h3>
 
